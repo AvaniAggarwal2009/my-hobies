@@ -1,0 +1,45 @@
+.menu {
+    list-style: none;
+    font-family: cursive;
+    top: 0px;
+    color: turquoise;
+    cursor: pointer;
+    float: right;
+    cursor: pointer
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+}
+
+#about {
+    background: linear-gradient(#b108cf 10%, #07d3f7);
+
+}
+
+body {
+    text-align: center;
+    background-color: lemonchiffon;
+}
+
+.links:hover {
+    background-color: black;
+}
+
+.links {
+    color: paleturquoise;
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    font-size: 20px;
+    font-family: monospace;
+    float: left;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
